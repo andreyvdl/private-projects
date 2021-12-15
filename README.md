@@ -1,2 +1,2 @@
 # private-projects
-My private projects, many will work in portuguese.
+My private projects, many will be written in portuguese.
